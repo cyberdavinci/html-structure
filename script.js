@@ -17,3 +17,4 @@ function closeMenu() {
 }
 
 let name = "Ebrima";
+console.log("hello");
